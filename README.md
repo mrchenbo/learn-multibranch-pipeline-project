@@ -7,6 +7,7 @@
 3、使用docker启动jenkins镜像，详情参考https://jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/
 
 
+
 遇到的问题
 
 Q:\User\Administator is invalid path. 

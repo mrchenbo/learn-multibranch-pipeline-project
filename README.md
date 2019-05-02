@@ -10,4 +10,5 @@
 遇到的问题
 
 Q:\User\Administator is invalid path. 
+
 A:不知何故%HOMEPATH%的值非法，所以在启动时，直接不适用该变量，换成home。

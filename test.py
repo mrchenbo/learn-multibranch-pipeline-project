@@ -1,5 +1,5 @@
 print("test A pass")
 print("test B pass")
 print("git test pass")
-
+print("period trigger test pass")
 print("test finish")
